@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" role="img" aria-labelledby="title desc">
+<title id="title">G Factory — Del directo al clip. Con control.</title>
+<desc id="desc">Identidad conceptual en carbón y naranja. Proyecto en desarrollo inicial, biblioteca compartida y clips multilingües.</desc>
+<rect width="1280" height="480" rx="24" fill="#0B0D10"/>
+<path d="M820 0v480M980 0v480M1140 0v480M0 360h1280" stroke="#20252D" stroke-width="1"/>
+<rect x="64" y="58" width="45" height="8" rx="4" fill="#FF8A3D"/>
+<text x="64" y="118" fill="#AAB2BF" font-family="system-ui,sans-serif" font-size="18" letter-spacing="3">CALIN RUS / SOFTWARE</text>
+<text x="60" y="224" fill="#F3F4F6" font-family="system-ui,sans-serif" font-size="86" font-weight="700">G Factory</text>
+<text x="64" y="284" fill="#FF8A3D" font-family="system-ui,sans-serif" font-size="30">Del directo al clip. Con control.</text>
+<text x="64" y="410" fill="#AAB2BF" font-family="system-ui,sans-serif" font-size="19">BIBLIOTECA COMPARTIDA · CLIPS · IDIOMAS</text>
+<rect x="884" y="104" width="278" height="48" rx="9" fill="#14171C" stroke="#2B313A"/>
+<text x="910" y="135" fill="#F3F4F6" font-family="system-ui,sans-serif" font-size="16">DESARROLLO INICIAL</text>
+<rect x="884" y="202" width="244" height="24" rx="5" fill="#2B313A"/>
+<rect x="884" y="245" width="88" height="24" rx="5" fill="#FF8A3D"/>
+<rect x="984" y="245" width="144" height="24" rx="5" fill="#FF8A3D" opacity=".55"/>
+<path d="M942 184v106M1062 184v106" stroke="#F3F4F6" stroke-width="2"/>
+</svg>

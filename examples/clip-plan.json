@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "source_duration_us": 14400000000,
+  "cuts": [
+    {
+      "start_us": 120000000,
+      "end_us": 180000000
+    },
+    {
+      "start_us": 900000000,
+      "end_us": 1020000000
+    }
+  ],
+  "intro_us": 2000000,
+  "outro_us": 3000000,
+  "max_duration_us": 900000000
+}
